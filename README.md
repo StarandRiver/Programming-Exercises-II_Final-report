@@ -21,3 +21,7 @@
 1. プログラムを起動する
 1. 画面に指示されたとおりに必要なパラメータを入力する
 1. 歯車が作図される
+
+## 実行例
+以下の画像は本プログラムを動作させてモジュールm=3，歯数z=44としたときの実行結果である
+![実行結果例](https://github.com/StarandRiver/Programming-Exercises-II_Final-report/assets/71925121/21a7af6a-7b3b-487f-b9c7-fc1d140d3f0e)
