@@ -135,7 +135,7 @@ public:
 		cout << "=====ƒpƒ‰ƒ[ƒ^=====" << endl;
 		cout << "ƒ‚ƒWƒ…[ƒ‹m:" << m << endl;
 		cout << "•”z:" << z << endl;
-		cout << "ˆ³—ÍŠpƒ¿:20‹" << z << endl;
+		cout << "ˆ³—ÍŠpƒ¿:20‹" << endl;
 		cout << "ƒsƒbƒ`‰~’¼Œad:" << d << endl;
 		cout << "•æ‰~’¼Œada:" << da << endl;
 		cout << "•’ê‰~’¼Œadf:" << df << endl;
