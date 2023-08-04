@@ -25,3 +25,6 @@
 ## 実行例
 以下の画像は本プログラムを動作させてモジュールm=3，歯数z=44としたときの実行結果である
 ![実行結果例](https://github.com/StarandRiver/Programming-Exercises-II_Final-report/assets/71925121/21a7af6a-7b3b-487f-b9c7-fc1d140d3f0e)
+
+## (参考)実行中の動画
+![実行動画](https://github.com/StarandRiver/Programming-Exercises-II_Final-report/assets/71925121/1f1f4a7d-5715-4f87-9d5a-fcf0a54efee9)
